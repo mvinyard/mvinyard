@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Welcome to my GitHub Profile
 
-<!--
-**mvinyard/mvinyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Michael Vinyard. 
 
-Here are some ideas to get you started:
+I'm currently working on my PhD at Harvard University where I am using single-cell genomics as well as CRISPR-Cas9-based genome-editing tools like (like base editing) to study cancer progression. This work is funded by an F31 through the NIH. The focus of this work is applying innovations in deep learning to analogous problems in the analysis of single-cell data. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about and interested in: 
+
+- 🧿 (single-cell) epigenomics and chromatin biology
+- 🧬 Functional annotation of variation in the human genome
+- 🧮 Deep learning
+- ✂️ Functional CRISPR studies
+- 🧠 Psychiatric disorders
+- 🧫 Cancer biology
+- 🐍 Implementing open-source tools for genomics in python.
+- 🎨 Computer graphics art
+
+You can read more about me and my work at my [website](https://www.michaelvinyard.com). 🔭 🧟
