@@ -1,6 +1,6 @@
 # 👋 My name is Michael Vinyard. 
 
-I'm currently working on my PhD at Harvard University where I am using single-cell genomics as well as CRISPR-Cas9-based genome-editing tools like (like base editing) to study cancer progression. This work is funded by an F31 through the NIH. The focus of this work is applying innovations in deep learning to analogous problems in the analysis of single-cell data. You can read more about me and my work at my [website](https://www.michaelvinyard.com).
+I'm currently working on my PhD at Harvard University where I am using single-cell genomics as well as CRISPR-Cas9-based genome-editing tools(like base-editing) to study cancer progression. My PhD work is funded by an NIH F31 award through the NCI and focuses on applying innovations in deep learning to analogous problems in the analysis of single-cell data. You can read more about me and my studies at my [website](https://www.michaelvinyard.com).
 
 I am passionate about and interested in: 
 
