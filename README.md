@@ -4,14 +4,14 @@ I'm currently working on my PhD at Harvard University where I am using single-ce
 
 I am passionate about and interested in: 
 
-- 🧿 (single-cell) epigenomics and chromatin biology
-- 🧬 Functional annotation of variation in the human genome
-- 🧮 Deep learning
-- ✂️ Functional CRISPR studies
-- 🧠 Psychiatric disorders
-- 🧫 Cancer biology
-- 🐍 Implementing open-source tools for genomics in python.
-- 🎨 Computer graphics art
+- 🧿  (single-cell) epigenomics and chromatin biology
+- 🧬  Functional annotation of variation in the human genome
+- 🧮  Deep learning
+- ✂️  Functional CRISPR studies
+- 🧠  Psychiatric disorders
+- 🧫  Cancer biology
+- 🐍  Implementing open-source tools for genomics in python.
+- 🎨  Computer graphics art
 
 ### Links
 
