@@ -71,4 +71,5 @@ I am passionate about and interested in:
 [![GitHub stars](https://img.shields.io/github/stars/mvinyard/mvinyard.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/mvinyard/mvinyard)
 
 *Dyanmically generated stats are implemented from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
+
 _† denotes equal contribution_
