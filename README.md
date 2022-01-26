@@ -1,4 +1,5 @@
-![header](https://user-images.githubusercontent.com/47393421/151056174-71e43b4f-25ee-4135-be08-f4dbe41f57c6.svg)
+![header v2](https://user-images.githubusercontent.com/47393421/151243992-4e65ad82-7ccc-4841-b403-cd5ee6bb751c.svg)
+
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 [![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)
