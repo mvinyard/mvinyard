@@ -35,6 +35,7 @@ I am passionate about and interested in:
 
 <br></br>
 
+For tutorials and resources: [link](https://github.com/mvinyard/mvinyard/wiki)
 
 ### GitHub Stats
 ---
