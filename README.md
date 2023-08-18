@@ -1,8 +1,5 @@
 ![header v3](https://user-images.githubusercontent.com/47393421/151835607-194524ef-c702-42a7-82cf-8325cbec2122.svg)
 
-
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 [![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 [![PyPi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://https://pypi.org/)
